@@ -1,5 +1,4 @@
-import type { Metadata } from 'next'
-
+import './globals.css'
 export const metadata: Metadata = {
   title: 'Bazar.pk',
   description: 'Pakistan ka Online Bazar',
